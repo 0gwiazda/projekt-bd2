@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Projekt_CLR_UDT\Sklep_Terrarystyczny_Forms\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddAmountOrNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilterData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SuccessError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewClientsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

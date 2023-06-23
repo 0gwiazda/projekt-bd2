@@ -1,0 +1,2 @@
+C:\Sklep_Terrarystyczny_Forms\bin\Release\net6.0-windows\publish\win-x64\Sklep_Terrarystyczny_Forms.pdb
+C:\Sklep_Terrarystyczny_Forms\bin\Release\net6.0-windows\publish\win-x64\Sklep_Terrarystyczny_Forms.exe

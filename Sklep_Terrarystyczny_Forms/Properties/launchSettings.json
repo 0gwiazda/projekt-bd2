@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Sklep_Terrarystyczny_Forms": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CONN_STRING": "DATA SOURCE=localhost\\\\SQLEXPRESS;INITIAL CATALOG=Projekt_CLR_UDT;USER ID=localhost\\\\Wojciech;INTEGRATED SECURITY=True;TRUSTED_CONNECTION=TRUE;ENCRYPT=FALSE;"
+      }
+    }
+  }
+}

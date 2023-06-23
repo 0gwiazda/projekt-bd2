@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Projekt\bin\Debug\Projekt.dll
+C:\Users\Administrator\Desktop\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Administrator\Desktop\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projekt\obj\Debug\Projekt.dll
+C:\Users\Administrator\Desktop\Projekt\obj\Debug\Projekt.pdb
+C:\Projekt_CLR_UDT\Projekt\bin\Debug\Projekt.dll
+C:\Projekt_CLR_UDT\Projekt\bin\Debug\Projekt.pdb
+C:\Projekt_CLR_UDT\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Projekt_CLR_UDT\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Projekt_CLR_UDT\Projekt\obj\Debug\Projekt.dll
+C:\Projekt_CLR_UDT\Projekt\obj\Debug\Projekt.pdb
